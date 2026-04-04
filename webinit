@@ -1,8 +1,8 @@
 #!/bin/bash
-
 # ============================================================================
-# Web Structure Generator (webinit)
-# A CLI tool for generating web project folder structures on Debian/Ubuntu
+# webinit - Web Structure Generator
+# Website Structure Generator CLI Tool
+# https://github.com/jindrichstoklasa/web-structure-generator
 # Version: 1.0.0
 # License: MIT
 # ============================================================================
