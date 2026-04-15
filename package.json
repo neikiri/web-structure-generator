@@ -1,0 +1,38 @@
+{
+  "name": "web-structure-generator",
+  "version": "1.0.1",
+  "description": "CLI tool for quickly generating web project structures with sensible defaults.",
+  "keywords": [
+    "cli",
+    "web",
+    "scaffold",
+    "generator",
+    "boilerplate",
+    "structure",
+    "bash",
+    "devtools"
+  ],
+  "homepage": "https://github.com/neikiri/web-structure-generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neikiri/web-structure-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neikiri/web-structure-generator/issues"
+  },
+  "license": "MIT",
+  "author": "neikiri <dev@neiki.eu>",
+  "bin": {
+    "webinit": "webinit"
+  },
+  "files": [
+    "webinit",
+    "install.sh",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "postinstall": "chmod +x webinit || true"
+  },
+  "preferGlobal": true
+}
