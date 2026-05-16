@@ -21,7 +21,7 @@
     "url": "https://github.com/neikiri/web-structure-generator/issues"
   },
   "license": "MIT",
-  "author": "neikiri <dev@neiki.eu>",
+  "author": "neikiri <neikiri@neikiri.dev>",
   "bin": {
     "webinit": "webinit"
   },

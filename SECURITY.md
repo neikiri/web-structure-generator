@@ -12,7 +12,7 @@ If you discover a security vulnerability in Web Structure Generator, please repo
 
 **Do not open a public issue.**
 
-Instead, send an email to **dev@neiki.eu** with:
+Instead, send an email to **neikiri@neikiri.dev** with:
 
 - A description of the vulnerability
 - Steps to reproduce the issue
